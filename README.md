@@ -1,2 +1,1 @@
-A simple aboutme page
-  Everyone can use it
+A simple aboutme page, everyone can use it, created with bootstrap
